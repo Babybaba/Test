@@ -5,6 +5,6 @@ import android.widget.Toast;
 
 public class Task {
     public static void test(Context context){
-        Toast.makeText(context, "试试能用不2", Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, "试试能用不22", Toast.LENGTH_SHORT).show();
     }
 }
